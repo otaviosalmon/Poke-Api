@@ -110,7 +110,7 @@ flutter build apk --release
 ## 🔗 Links
 
 - 📦 [Download APK]() ← *adicione o link*
-- 🌐 [Versão Web]() ← *adicione o link (Firebase Hosting ou GitHub Pages)*
+
 
 ---
 
