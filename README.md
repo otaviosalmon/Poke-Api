@@ -133,6 +133,7 @@ flutter build apk --release
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Seu Nome** — [GitHub](https://github.com/SEU_USUARIO)
+Otávio Salomão
+Matheus Pasti
