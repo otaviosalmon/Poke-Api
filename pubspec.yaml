@@ -1,0 +1,29 @@
+name: pokedex
+description: A Pokédex app consuming PokéAPI with Firebase Firestore favorites.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP — chamadas REST à PokéAPI
+  http: ^1.2.1
+
+  # Firebase
+  firebase_core: ^2.27.1
+  cloud_firestore: ^4.15.9
+
+  # Cache de imagens — evita re-download a cada rebuild
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
